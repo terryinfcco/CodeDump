@@ -1,5 +1,8 @@
-site_name: My Docs
-theme: litera
+site_name: CodeDump
+theme: 
+  name: 'material'
+  palette:
+    scheme: slate
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
