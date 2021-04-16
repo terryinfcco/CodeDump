@@ -1,1 +1,5 @@
 site_name: My Docs
+theme: litera
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
